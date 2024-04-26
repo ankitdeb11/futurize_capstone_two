@@ -1,0 +1,60 @@
+.about__container {
+    padding: 30px 160px;
+    margin-bottom: 600px;
+    margin-top: 100px;
+
+}
+
+.about__box {
+    background: white;
+    height: 1.5px;
+    display: flex;
+    margin: 60px -360px;
+}
+
+.about__vertical {
+    width: 1px;
+    margin: 0 108px;
+    background: white;
+    height: 93px;
+}
+
+
+
+.about__img-top {
+    width: 30px;
+    height: 30px;
+    top: -40px;
+    position: relative;
+    left: 125px;
+
+}
+
+
+.about__vertical-name {
+    position: relative;
+    top: 90px;
+    left: -6px;
+    font-size: 20px;
+    color: white;
+    width: 200px;
+}
+
+
+.about__vertical-title {
+    position: relative;
+    top: 88px;
+    font-size: 10px;
+    color: gray;
+    width: 200px;
+    left: -6px;
+}
+
+.about__vertical-description{
+    position: relative;
+    top: 100px;
+    color: gray;
+    width: 200px;
+    left: -6px;
+    font-size: 10px;
+}
